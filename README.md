@@ -48,7 +48,7 @@ O **Navegando na Crunchyroll** é um projeto que explora a trajetória e o objet
 * **Node.js:** APIs I/O-bound e gerenciamento de sessões em tempo real.
 * **Python:** Algoritmos de recomendação, automação e processamento de dados.
 
-### **Front-end & Mobile**
+### **Front-end**
 * **React:** Construção de interfaces dinâmicas e reativas para a web.
 * **Next.js:** Renderização no lado do servidor (SSR) para alta performance e otimização de SEO.
 * **Swift:** Aplicativo nativo otimizado para o ecossistema iOS (iPhone/iPad/Apple TV).
