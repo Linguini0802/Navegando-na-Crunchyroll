@@ -91,9 +91,9 @@ Equipe responsável pela fundação, arquitetura inicial e desenvolvimento da pl
 
 Nomes:
 
-João Vitor Oliveira da Silva
-Giovana Bastos
-Beatriz Naomi Murakami Pires
-Hugo Gabriel Araújo Honorato 
-Vinícius Lunardi Fernandes Peixoto 
+João Vitor Oliveira da Silva -
+Giovana Bastos -
+Beatriz Naomi Murakami Pires -
+Hugo Gabriel Araújo Honorato -
+Vinícius Lunardi Fernandes Peixoto -
 Gerdson Luiz Felix Oliveira 
