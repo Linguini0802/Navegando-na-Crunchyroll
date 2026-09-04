@@ -55,7 +55,7 @@ O **Navegando na Crunchyroll** é um projeto que explora a trajetória e o objet
 * **Kotlin:** Aplicativo nativo otimizado para o ecossistema Android e Android TV.
 * **Console SDKs:** Suporte e integração direta para consoles de videogame.
 
-### **Banco de Dados & Caching**
+### **Banco de Dados**
 * **Amazon DynamoDB:** Banco de dados NoSQL gerenciado de altíssima velocidade para dados estruturados.
 * **MongoDB:** Banco de dados orientado a documentos para dados flexíveis de catálogo e perfis.
 * **Redis:** Cache em memória para alta disponibilidade, controle de sessões e baixa latência.
