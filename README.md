@@ -87,3 +87,13 @@ Equipe responsável pela fundação, arquitetura inicial e desenvolvimento da pl
 * **James Lin** — Liderou o design das primeiras interfaces do site, a arquitetura dos sistemas de assinaturas e a lógica do reprodutor de vídeo.
 * **Brandon Ooi** — Atuou como Diretor de Tecnologia (CTO) original da plataforma, projetando a arquitetura técnica capaz de suportar tráfego massivo global.
 * **Vu Nguyen** — Responsável pela implementação prática e engenharia de código da aplicação web original.
+
+
+Nomes:
+
+João Vitor Oliveira da Silva
+Giovana Bastos
+Beatriz Naomi Murakami Pires
+Hugo Gabriel Araújo Honorato 
+Vinícius Lunardi Fernandes Peixoto 
+Gerdson Luiz Felix Oliveira 
